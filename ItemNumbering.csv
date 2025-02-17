@@ -42,8 +42,8 @@
 40,X,X,Bonesaw MK.3,Bonesaw,Anti-Tank RPG,A.T.R.P.G. Indirect Shell,Warden,Heavy Arms,2,6,1,1,5,100,0,25,0,0
 41,X,X,A.T.R.P.G. Indirect Shell,,,A.T.R.P.G. Indirect Shell,Warden,Heavy Arms,2,7,1,1,15,60,75,0,0,0
 42,X,X,Cremari Mortar,,Mortar,Mortar Shell,Both,Heavy Arms,2,8,1,1,5,100,0,25,0,0
-43,X,X,Mortar Flare Shell,,,Mortar Shell,Both,Heavy Arms,2,9,1,1,15,60,10,0,0,0
-44,X,X,Mortar Shrapnel Shell,,,Mortar Shell,Both,Heavy Arms,2,10,1,1,15,60,15,0,0,0
+43,X,X,Flare Mortar Shell,,,Mortar Shell,Both,Heavy Arms,2,9,1,1,15,60,10,0,0,0
+44,X,X,Shrapnel Mortar Shell,,,Mortar Shell,Both,Heavy Arms,2,10,1,1,15,60,15,0,0,0
 45,X,X,Mortar Shell,,,Mortar Shell,Both,Heavy Arms,2,11,1,1,15,60,35,0,0,0
 46,X,X,BF5 White Ash Flask Grenade,,Anti-Tank Grenade,,Both,Heavy Arms,2,12,1,1,15,100,50,0,0,0
 47,X,X,Ignifist 30,,Anti-Tank RPG,,Colonial,Heavy Arms,2,13,1,1,15,60,50,0,0,0
@@ -305,18 +305,4 @@
 306,,,Naval Turbine Components,,,,Both,Shippables,9,22,1,0,,,,,,
 307,,,Model-7 Evie,,,,Both,Heavy Ammunition,3,13,1,1,,,,,,
 308,,,Wind Sock,,,,Both,Utility,4,27,1,1,,,,,,
-309,,,"90T-v ""Nemesis""",,,,Colonial,Vehicle,8,111,1,1,,,,,,
-310,,,Gallagher Brigand Mk. I,,,,Warden,Vehicle,8,112,1,1,,,,,,
-311,,,BMS Stowheel,,,,Both,Vehicle,8,113,1,1,,,,,,
-312,,,BMS Bloodtender,,,,Both,Vehicle,8,114,1,1,,,,,,
-313,,,Incendiary Mortar Shell,,,,Both,Heavy Arms,2,33,1,1,,,,,,
-314,,,"Dawn" Ve.II,,,,Colonial,Heavy Arms,2,34,1,1,,,,,,
-315,,,"Quickhatch" Rt.I,,,,Colonial,Heavy Arms,2,35,1,1,,,,,,
-316,,,Booker Greyhound Model 910,,,,Warden,Heavy Arms,2,36,1,1,,,,,,
-317,,,228 Satterley Heavy Storm Rifle,,,,Warden,Heavy Arms,2,37,1,1,,,,,,
-318,,,B2 Varsi Anti-Tank Grenade,,,,Warden,Heavy Arms,2,38,1,1,,,,,,
-319,,,Eleos Infantry Dagger,,,,Colonial,Utility,4,28,1,1,,,,,,
-320,,,Falias Raiding Club,,,,Warden,Utility,4,29,1,1,,,,,,
-321,,,KRF1-750 Dragonfly,,,,Colonial,Small Arms,1,40,1,1,,,,,,
-322,,,No.4 The Pillory Scattergun,,,,Warden,Small Arms,1,41,1,1,,,,,,
-323,,,Crow’s Foot Mine,,,,Both,Utility,4,30,1,1,,,,,,
+309,X,X,Incendiary Mortar Shell,,,Mortar Shell,Both,Heavy Arms,2,11,1,1,15,60,35,0,0,0
